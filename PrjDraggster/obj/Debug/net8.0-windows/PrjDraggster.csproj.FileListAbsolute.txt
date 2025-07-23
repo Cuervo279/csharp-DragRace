@@ -1,0 +1,17 @@
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\bin\Debug\net8.0-windows\PrjDraggster.exe
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\bin\Debug\net8.0-windows\PrjDraggster.deps.json
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\bin\Debug\net8.0-windows\PrjDraggster.runtimeconfig.json
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\bin\Debug\net8.0-windows\PrjDraggster.dll
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\bin\Debug\net8.0-windows\PrjDraggster.pdb
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\obj\Debug\net8.0-windows\PrjDraggster.PrjMain.resources
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\obj\Debug\net8.0-windows\PrjDraggster.csproj.GenerateResource.cache
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\obj\Debug\net8.0-windows\PrjDraggster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\obj\Debug\net8.0-windows\PrjDraggster.AssemblyInfoInputs.cache
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\obj\Debug\net8.0-windows\PrjDraggster.AssemblyInfo.cs
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\obj\Debug\net8.0-windows\PrjDraggster.csproj.CoreCompileInputs.cache
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\obj\Debug\net8.0-windows\PrjDraggster.dll
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\obj\Debug\net8.0-windows\refint\PrjDraggster.dll
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\obj\Debug\net8.0-windows\PrjDraggster.pdb
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\obj\Debug\net8.0-windows\PrjDraggster.genruntimeconfig.cache
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\obj\Debug\net8.0-windows\ref\PrjDraggster.dll
+C:\Programas\Projetos\Vanilla\CSharp-PrjDraggster\PrjDraggster\PrjDraggster\obj\Debug\net8.0-windows\PrjDraggster.Properties.Resources.resources
